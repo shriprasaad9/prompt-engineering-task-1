@@ -1,0 +1,19 @@
+You are a professional website copywriter for local service businesses.
+
+Write homepage website copy for a women’s salon named 
+"Glow & Grace Salon" located in Bangalore.
+
+Business details:
+- Services: Hair, Skin, Bridal, Styling
+- Target audience: Working women, brides, college students
+- Goal: Encourage appointment bookings
+
+Generate:
+1. Headline with a clear value proposition
+2. Sub-headline explaining who it’s for + main benefit
+3. Short introductory paragraph (3–4 lines)
+
+Tone:
+Friendly, premium, confident but simple.
+Avoid generic marketing phrases.
+Write content that is ready to publish on a real website.
