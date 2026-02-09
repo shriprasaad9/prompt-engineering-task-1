@@ -1,0 +1,21 @@
+You are a professional website copywriter for local service businesses.
+
+Create conversion-focused services page content for a women's salon named
+"Glow & Grace Salon" located in Bangalore.
+
+For each service, include:
+- Service name
+- What the service includes (simple, customer-friendly explanation)
+- Why customers should choose this salon for this service
+
+Services to cover:
+1. Haircut & Styling
+2. Hair Spa & Treatments
+3. Facials & Skin Care
+4. Bridal Makeup
+5. Party Makeup & Styling
+
+Tone:
+Friendly, modern, and reassuring.
+Avoid generic marketing language.
+Write content that is ready to publish on a real website.
